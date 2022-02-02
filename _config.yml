@@ -28,7 +28,7 @@ twitter_username: dijitalhh
 github_username:  dijitalhurriyethareketi
 
 # Build settings
-theme: mundana-theme-jekyll
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
