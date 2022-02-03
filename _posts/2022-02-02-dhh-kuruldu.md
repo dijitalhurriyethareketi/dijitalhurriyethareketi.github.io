@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Dijital Hürriyet Hareketi Kuruldu!
-tags: DDH
+tags: DHH
 article_header:
   type: cover
   image:
