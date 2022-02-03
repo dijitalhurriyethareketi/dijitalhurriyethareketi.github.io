@@ -18,7 +18,7 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+Dijital Hürriyet Hareketi, dijital dünyadaki bireysel hürrriyetlerimizi savunmak için 2 Şubat 2022'de kurduğumuz bir harekettir. DHH'nin kuruluşunda ve gayesinde ABD'deki EFF'den esinlenilmiştir.
 
 {% highlight javascript %}
 (() => console.log('hello, world!'))();
