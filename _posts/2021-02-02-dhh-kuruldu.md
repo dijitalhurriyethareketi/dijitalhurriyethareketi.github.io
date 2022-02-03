@@ -3,11 +3,8 @@ layout: article
 title: Dijital Hürriyet Hareketi Kuruldu!
 tags: DDH
 article_header:
-  type: overlay
-  theme: dark
-  background_color: '#ec1e1e'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(236, 30, 30, .4), rgba(255, 0, 0, .4))'
+  type: cover
+  image:
     src: /assets/images/dhh-acildi.png
 ---
 
