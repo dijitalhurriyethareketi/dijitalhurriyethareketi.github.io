@@ -1,6 +1,14 @@
 ---
+layout: article
 title: Dijital Hürriyet Hareketi Kuruldu!
-tags: TeXt
+tags: DDH
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#ec1e1e'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(236, 30, 30, .4), rgba(255, 0, 0, .4))'
+    src: /assets/images/dhh-acildi.png
 ---
 
 Dijital Hürriyet Hareketi'ni bugün, 2 Şubat 2022 günü saat 22.00'da kurduk!
