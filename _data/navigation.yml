@@ -21,7 +21,7 @@ header:
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
-      tr      : &TR       Arşivdekiler
+      tr      : &TR       Arşiv
       # @end locale config
     url: /archive.html
 
