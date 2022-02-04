@@ -1,4 +1,6 @@
 header:
+  - title: Anasayfa
+    url: https://dijitalhurriyethareketi.github.io/
   - titles:
       # @start locale config
       en      : &EN       Archive
