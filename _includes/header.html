@@ -6,6 +6,7 @@
   <header class="header" {%- if include.background -%} style="background: {{ include.background }};" {%- endif -%}>
 {%- endif -%}
     <div class="main">
+     <a href="{{ __return }}">
       <div class="header__title" href="https://dijitalhurriyethareketi.github.io/">
         <div class="header__brand">
           {%- include svg/logo.svg -%}
@@ -19,6 +20,7 @@
           <button class="button button--secondary button--circle search-button js-search-toggle"><i class="fas fa-search"></i></button>
         {%- endif -%}
       </div>
+      </a>
       {%- if site.data.navigation.header -%}
       <nav class="navigation">
         <ul>
