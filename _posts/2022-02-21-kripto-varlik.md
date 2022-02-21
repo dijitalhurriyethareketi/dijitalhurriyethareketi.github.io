@@ -21,7 +21,7 @@ işte bu sebepten taslakta bahsedilen kurul tarafından denetlenmesine ihtiyaç 
 Diyelim ki bu tasarı meclisten geçti ve biz de halen gizliliğimizi korumak istiyoruz, neler yapabiliriz? Öncelikle bize bir adet herhangi bir merkezi alım-satım platformuyla etkileşime geçmemiş, özel anahtarına sahip olduğumuz bir cüzdana ihtiyacımız var. Bu cüzdana varlık aktarmak için daha önceden kullandığımız cüzdanla bazı merkeziyetsiz gizlilik uygulamaları kullanabiliriz. Bazı bilindik merkeziyetsiz gizlilik uygulamalarını ve coinlerini sizler için sıralayalım;
 
 1. [Tornado Cash](https://tornado.cash/) (Ethereum)
-2. Blender.io(https://blender.io) (Bitcoin)
-3. Monero(https://www.getmonero.org/) ve Zcash(https://z.cash/)
+2. [Blender.io](https://blender.io) (Bitcoin)
+3. [Monero](https://www.getmonero.org/) ve [Zcash](https://z.cash/)
 
 Sonuç olarak kripto varlıklar özelliği gereği bu şekilde ağır düzenlemelere uygun değildir. Kripto varlıkların düzenlemelere tabi olması insanların kripto paralar sayesinde kazandığı birtakım özgürlüklerin ihlali anlamına gelecektir. Kripto varlıklar merkezi kurumlardan bağımsız olduğu için belirli bir süre sonra düzenlemelerden bağımsız var olabilir mi? Bunu hep birlikte zamanla göreceğiz.
