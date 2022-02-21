@@ -52,5 +52,5 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
-  - title: Bize Katıl
+  - title: Katıl
     url: https://dar.vin/dhh-kayit
