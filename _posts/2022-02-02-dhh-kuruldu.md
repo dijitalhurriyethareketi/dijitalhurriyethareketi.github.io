@@ -3,7 +3,7 @@ layout: article
 title: Dijital Hürriyet Hareketi Kuruldu!
 tags: DHH
 article_header:
-type: overlay
+  type: overlay
   theme: dark
   background_color: '#000'
   background_image:
