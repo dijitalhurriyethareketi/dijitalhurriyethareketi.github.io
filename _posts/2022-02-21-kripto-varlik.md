@@ -3,8 +3,11 @@ layout: article
 title: Kripto Varlık Tasarısı Hakkında
 tags: Kripto, P2P, Blokzincir
 article_header:
-  type: cover
-  image:
+  type: overlay
+  theme: dark
+  background_color: '#000'
+  background_image:
+    gradient: 'rgba(0, 0, 0, 0.75)'
     src: /assets/images/kripto-yasasi.png
 ---
 
