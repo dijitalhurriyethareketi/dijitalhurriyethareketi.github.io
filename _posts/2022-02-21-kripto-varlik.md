@@ -7,7 +7,7 @@ article_header:
   theme: dark
   background_color: '#000'
   background_image:
-    gradient: 'rgba(0, 0, 0, 0.75)'
+    gradient: 'linear-gradient(135deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, .7))'
     src: /assets/images/kripto-yasasi.png
 ---
 
