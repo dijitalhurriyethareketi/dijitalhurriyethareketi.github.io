@@ -28,3 +28,5 @@ Diyelim ki bu tasarı meclisten geçti ve biz de halen gizliliğimizi korumak is
 3. [Monero](https://www.getmonero.org/) ve [Zcash](https://z.cash/)
 
 Sonuç olarak kripto varlıklar özelliği gereği bu şekilde ağır düzenlemelere uygun değildir. Kripto varlıkların düzenlemelere tabi olması insanların kripto paralar sayesinde kazandığı birtakım özgürlüklerin ihlali anlamına gelecektir. Kripto varlıklar merkezi kurumlardan bağımsız olduğu için belirli bir süre sonra düzenlemelerden bağımsız var olabilir mi? Bunu hep birlikte zamanla göreceğiz.
+
+Yazarlar: [Guap_007](https://twitter.com/Guap_007), [spacelorrrd](https://twitter.com/spacelorrrd)
