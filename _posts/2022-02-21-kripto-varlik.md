@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Kripto Varlık Tasarısı Hakkında
-tags: Kripto, P2P, Blokzincir
+tags: Kripto P2P Blokzincir
 article_header:
   type: overlay
   theme: dark
