@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Twitter Algoritmasının Kaynak Kodunun Açılması Ne Değiştirecek?
+title: Twitter Algoritmasının Kaynak Kodunun Açılması Neleri Değiştirecek?
 tags: ÖAKK Twitter Blokzincir
 article_header:
   type: overlay
