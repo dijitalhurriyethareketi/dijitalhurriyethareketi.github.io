@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="396.79999"
+   height="204.8"
+   viewBox="0 0 396.79999 204.8"
+   sodipodi:docname="twitter-acik.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/yutyo/git/dijitalhurriyethareketi.github.io/assets/images/twitter-acik.png"
+   inkscape:export-xdpi="254"
+   inkscape:export-ydpi="254"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <rect
+       x="-0.91210246"
+       y="-1.1917977"
+       width="397.72927"
+       height="239.09599"
+       id="rect4704" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.2036126"
+     inkscape:cx="194.41472"
+     inkscape:cy="120.88608"
+     inkscape:window-width="1366"
+     inkscape:window-height="692"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <rect
+       style="fill:#1d9bf0;fill-opacity:1;stroke-width:1.88976;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect2069"
+       width="405.44275"
+       height="208.40642"
+       x="-4.3213806"
+       y="-1.8032074" />
+    <path
+       id="white_background"
+       class="st0"
+       d="m 253.81533,73.969825 c 0.0849,1.228618 0.0849,2.457236 0.0849,3.697176 0,37.781499 -28.76217,81.355049 -81.35505,81.355049 v -0.0227 c -15.5361,0.0227 -30.74948,-4.42756 -43.82834,-12.81841 2.25908,0.27176 4.52948,0.40764 6.80554,0.41331 12.87503,0.0113 25.38205,-4.30866 35.51109,-12.26356 -12.23525,-0.23214 -22.96445,-8.20967 -26.71258,-19.85609 4.28602,0.82664 8.70225,0.65677 12.909,-0.49257 -13.3393,-2.69504 -22.93613,-14.415061 -22.93613,-28.026139 0,-0.124558 0,-0.24346 0,-0.362361 3.97461,2.213786 8.42483,3.442402 12.97695,3.578291 -12.56364,-8.396515 -16.43634,-25.110288 -8.84946,-38.177823 14.51696,17.863116 35.93572,28.722534 58.92847,29.871891 -2.30437,-9.930878 0.84362,-20.337343 8.27195,-27.318398 11.51619,-10.825448 29.62844,-10.270586 40.45388,1.239943 6.40355,-1.262591 12.54099,-3.612256 18.15755,-6.941421 -2.13452,6.618697 -6.60171,12.24091 -12.5693,15.813529 5.66751,-0.668095 11.20479,-2.185468 16.41935,-4.50116 -3.83873,5.752431 -8.67394,10.763161 -14.26785,14.811386 z"
+       style="fill:#ffffff;stroke-width:0.566185" />
+    <g
+       id="g1895"
+       style="stroke:none;stroke-opacity:1"
+       transform="matrix(0.22351875,0,0,0.22351875,147.69282,76.381016)">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#1d9bf0;fill-opacity:1;stroke:none;stroke-width:40;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path1049"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="305.64487"
+         sodipodi:cy="693.30383"
+         sodipodi:r1="155.56415"
+         sodipodi:r2="77.782074"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.71216573,0,0,1.1389114,9.1888842,-508.57256)"
+         inkscape:transform-center-y="-51.026948"
+         inkscape:transform-center-x="-1.1486271e-05"
+         d="m 305.64487,537.73969 134.7225,233.34622 -269.44501,-10e-6 z" />
+      <circle
+         style="opacity:1;fill:#1d9bf0;fill-opacity:1;stroke:none;stroke-width:33.4401;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path882"
+         cx="226.85866"
+         cy="161.58575"
+         r="79.280556" />
+    </g>
+  </g>
+</svg>
