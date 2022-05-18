@@ -41,14 +41,14 @@ author:
   bio       : Biz, dijitalleşen dünyada bireysel özgürlüklerinden taviz vermeyen bireyleriz. Biz, devlet ve büyük şirket tekellerinin mülki yazılımlarla sağladıkları gözetim rejimine karşı özgür ve açık kaynak alternatiflerini yaygınlaştıran, kamuoyunu bilinçlendiren aktivistleriz.
   email     : gnutr@protonmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : https://twitter.com/dijitalhh
+  twitter   : dijitalhh
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  telegram  : https://t.me/dijitalhurriyethareketi
+  telegram  : dijitalhurriyethareketi
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : https://www.linkedin.com/company/dijitalhurriyethareketi
+  linkedin  : /company/dijitalhurriyethareketi
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
