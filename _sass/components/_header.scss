@@ -64,17 +64,37 @@
   @include flexbox();
   @include align-items(center);
   & > svg {
-    height: map-get($base, font-size-h4) * 5.6;
-    width: map-get($base, font-size-h4) * 5.6;
+    height: map-get($base, font-size-h4) * 6.6;
+    width: map-get($base, font-size-h4) * 6.6;
     margin-right: map-get($spacers, 3);
     vertical-align: middle;
     @include media-breakpoint-down(md) {
-      height: map-get($base, font-size-h4) * 5.2;
-      width: map-get($base, font-size-h4) * 5.2;
+      height: map-get($base, font-size-h4) * 6.2;
+      width: map-get($base, font-size-h4) * 6.2;
     }
   }
   & > a {
     display: none;
+    }
+  }
+
+@media only screen and (max-width:500px) {
+  .header__brand {
+    @include flexbox();
+    @include align-items(center);
+    & > svg {
+      height: map-get($base, font-size-h4) * 5.4;
+      width: map-get($base, font-size-h4) * 5.4;
+      margin-right: map-get($spacers, 3);
+      vertical-align: middle;
+      @include media-breakpoint-down(md) {
+        height: map-get($base, font-size-h4) * 5;
+        width: map-get($base, font-size-h4) * 5;
+      }
+    }
+    & > a {
+      display: none;
+      }
     }
   }
 
